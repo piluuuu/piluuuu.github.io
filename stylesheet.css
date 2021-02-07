@@ -43,6 +43,9 @@ background-position: center; /* Center the image */
 	 text-align: center;
 	 margin: 30px auto 0px auto;
 }
+ .card .poi{
+	 font-size: 0.8em;
+}
  .card .front {
 	 position: absolute;
 	 width: 100%;
